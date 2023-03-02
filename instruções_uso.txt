@@ -1,0 +1,15 @@
+    1 - Baixe os arquivos do servidor e do cliente em uma pasta no seu computador.
+
+    2 - Abra dois terminais diferentes na pasta em que os arquivos estão localizados.
+
+    3 - No primeiro terminal, execute o arquivo servidor.py com o seguinte comando: python3 servidor.py.
+   
+    4 - No segundo terminal, execute o arquivo cliente.py com o seguinte comando: python3 cliente.py.
+   
+    5 - O programa cliente abrirá uma janela de login para você inserir o seu nome e o nome da sala que deseja entrar. Preencha essas informações e clique em "OK".
+   
+    6 - A janela do chat será exibida. Você pode enviar mensagens para a sala clicando no botão "Enviar". As mensagens serão exibidas na caixa de texto abaixo.
+  
+    7 - Repita o passo 5 e 6 no segundo terminal, mas com nomes de usuário diferentes e na mesma sala.
+ 
+    8 - Agora você pode enviar mensagens entre os dois terminais e testar o funcionamento do chat.
